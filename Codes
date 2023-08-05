@@ -5,5 +5,9 @@
     },
     "VACATION2023!": {
         "RandomCase": 5
+    },
+    "COINFLIPS!": {
+        "Currency": 1000000,
+        "RandomCase": 1
     }
 }
